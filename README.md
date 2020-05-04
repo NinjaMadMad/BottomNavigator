@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.com/PandoraMedia/BottomNavigator.svg?branch=master)](https://travis-ci.com/PandoraMedia/BottomNavigator) <a href='https://search.maven.org/search?q=g:com.pandora.bottomnavigator%20a:bottom-navigator'><img src='https://img.shields.io/maven-central/v/com.pandora.bottomnavigator/bottom-navigator.svg'></a> <img src='https://img.shields.io/github/license/pandoramedia/BottomNavigator'>
+[![Build Status](https://travis-ci.com/PandoraMedia/BottomNavigator.svg?branch=master)](https://travis-ci.com/PandoraMedia/BottomNavigator) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNinjaMadMad%2FBottomNavigator.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNinjaMadMad%2FBottomNavigator?ref=badge_shield)
+<a href='https://search.maven.org/search?q=g:com.pandora.bottomnavigator%20a:bottom-navigator'><img src='https://img.shields.io/maven-central/v/com.pandora.bottomnavigator/bottom-navigator.svg'></a> <img src='https://img.shields.io/github/license/pandoramedia/BottomNavigator'>
 
 # Bottom Navigator
 
@@ -155,3 +156,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNinjaMadMad%2FBottomNavigator.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FNinjaMadMad%2FBottomNavigator?ref=badge_large)
